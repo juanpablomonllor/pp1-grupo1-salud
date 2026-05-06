@@ -1,0 +1,20 @@
+<svg width="100%" viewBox="0 0 680 160" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>Banner PP1 Grupo 1 Salud Pública</title>
+  <rect width="680" height="160" rx="12" fill="#085041"/>
+  <circle cx="620" cy="20" r="60" fill="#0F6E56" opacity="0.6"/>
+  <circle cx="660" cy="130" r="45" fill="#1D9E75" opacity="0.3"/>
+  <circle cx="30" cy="140" r="50" fill="#0F6E56" opacity="0.4"/>
+  <rect x="590" y="42" width="8" height="28" rx="2" fill="#5DCAA5" opacity="0.7"/>
+  <rect x="580" y="52" width="28" height="8" rx="2" fill="#5DCAA5" opacity="0.7"/>
+  <polyline points="40,110 80,110 95,75 110,140 125,90 140,110 200,110" fill="none" stroke="#5DCAA5" stroke-width="2" opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="44" y="58" font-family="system-ui, sans-serif" font-size="22" font-weight="700" fill="#E1F5EE" letter-spacing="0.3">Prácticas Profesionalizantes 1</text>
+  <text x="44" y="85" font-family="system-ui, sans-serif" font-size="14" font-weight="400" fill="#9FE1CB">1A-1C · Grupo 1 · Salud Pública</text>
+  <line x1="44" y1="98" x2="300" y2="98" stroke="#1D9E75" stroke-width="1"/>
+  <rect x="44" y="110" width="72" height="22" rx="11" fill="#1D9E75"/>
+  <text x="80" y="125" font-family="system-ui, sans-serif" font-size="11" font-weight="500" fill="#E1F5EE" text-anchor="middle">Python 🐍</text>
+  <rect x="124" y="110" width="70" height="22" rx="11" fill="#1D9E75"/>
+  <text x="159" y="125" font-family="system-ui, sans-serif" font-size="11" font-weight="500" fill="#E1F5EE" text-anchor="middle">Jupyter 📓</text>
+  <rect x="202" y="110" width="58" height="22" rx="11" fill="#1D9E75"/>
+  <text x="231" y="125" font-family="system-ui, sans-serif" font-size="11" font-weight="500" fill="#E1F5EE" text-anchor="middle">GitHub</text>
+  <text x="636" y="153" font-family="system-ui, sans-serif" font-size="11" fill="#9FE1CB" text-anchor="end" opacity="0.8">Ciclo 2026</text>
+</svg>
