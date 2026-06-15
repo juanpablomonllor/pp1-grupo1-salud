@@ -228,11 +228,11 @@ fix/xxx         ← Correcciones
 
 ## 📅 Cronograma
 
-| Sprint | Período | Duración | Estado |
-|--------|---------|----------|--------|
-| Sprint 1 | 4 – 10 de mayo de 2026 | 1 semana | ✅ Completado |
-| Sprint 2 | 11 – 31 de mayo de 2026 | 3 semanas | ✅ Completado |
-| Sprint 3 | 1 – 7 de junio de 2026 | 1 semana | ✅ Completado |
+| Sprint | Fecha de Entrega | Estado |
+|--------|-----------------|--------|
+| Sprint 1 | 10/05/2026 | ✅ Completado |
+| Sprint 2 | 31/05/2026 | ✅ Completado |
+| Sprint 3 | 07/06/2026 | ✅ Completado |
 
 ---
 
