@@ -1,23 +1,137 @@
 <svg width="1280" height="640" viewBox="0 0 1280 640" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>Social Preview PP1 Grupo 1 Salud Pública</title>
-  <rect width="1280" height="640" fill="#085041"/>
-  <circle cx="1100" cy="120" r="230" fill="#0F6E56" opacity="0.5"/>
-  <circle cx="1220" cy="560" r="170" fill="#1D9E75" opacity="0.25"/>
-  <circle cx="40" cy="570" r="190" fill="#0F6E56" opacity="0.35"/>
-  <circle cx="190" cy="60" r="130" fill="#1D9E75" opacity="0.2"/>
-  <line x1="0" y1="213" x2="1280" y2="213" stroke="#1D9E75" stroke-width="1" opacity="0.3"/>
-  <line x1="0" y1="426" x2="1280" y2="426" stroke="#1D9E75" stroke-width="1" opacity="0.3"/>
-  <line x1="426" y1="0" x2="426" y2="640" stroke="#1D9E75" stroke-width="1" opacity="0.3"/>
-  <line x1="853" y1="0" x2="853" y2="640" stroke="#1D9E75" stroke-width="1" opacity="0.3"/>
-  <rect x="98" y="128" width="30" height="98" rx="8" fill="#5DCAA5" opacity="0.9"/>
-  <rect x="57" y="170" width="112" height="30" rx="8" fill="#5DCAA5" opacity="0.9"/>
-  <polyline points="90,380 210,380 255,275 300,465 345,330 390,380 760,380" fill="none" stroke="#5DCAA5" stroke-width="5" opacity="0.4" stroke-linecap="round" stroke-linejoin="round"/>
-  <rect x="75" y="285" width="376" height="60" rx="30" fill="#1D9E75" opacity="0.8"/>
-  <text x="263" y="323" font-family="system-ui, sans-serif" font-size="26" font-weight="600" fill="#E1F5EE" text-anchor="middle">🏥 Salud Pública</text>
-  <text x="640" y="255" font-family="system-ui, sans-serif" font-size="62" font-weight="800" fill="#E1F5EE" text-anchor="middle" letter-spacing="1">Prácticas</text>
-  <text x="640" y="330" font-family="system-ui, sans-serif" font-size="62" font-weight="800" fill="#E1F5EE" text-anchor="middle" letter-spacing="1">Profesionalizantes 1</text>
-  <text x="640" y="406" font-family="system-ui, sans-serif" font-size="34" font-weight="400" fill="#9FE1CB" text-anchor="middle">1A-1C · Grupo 1 · Ciclo 2026</text>
-  <line x1="450" y1="438" x2="830" y2="438" stroke="#5DCAA5" stroke-width="2" opacity="0.6"/>
-  <text x="640" y="500" font-family="system-ui, sans-serif" font-size="26" fill="#9FE1CB" text-anchor="middle" opacity="0.9">Python · Jupyter · EDA · GitHub · Metodología Ágil</text>
-  <text x="82" y="600" font-family="system-ui, monospace" font-size="22" fill="#5DCAA5" opacity="0.8">github.com/juanpablomonllor/pp1-grupo1-salud</text>
+  <title>Social Preview PP1 Grupo 1 — Dengue Argentina 2022–2025</title>
+  <desc>Preview social del repositorio GitHub del Equipo 1, análisis epidemiológico descriptivo del dengue en Argentina 2022–2025.</desc>
+
+  <!-- Fondo oscuro base -->
+  <rect width="1280" height="640" fill="#0D0A0A"/>
+
+  <!-- Viñetas rojas -->
+  <radialGradient id="vgr" cx="100%" cy="0%" r="65%">
+    <stop offset="0%" stop-color="#8B1A1A" stop-opacity="0.75"/>
+    <stop offset="100%" stop-color="#0D0A0A" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="1280" height="640" fill="url(#vgr)"/>
+
+  <radialGradient id="vgl" cx="0%" cy="100%" r="55%">
+    <stop offset="0%" stop-color="#5C0F0F" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#0D0A0A" stop-opacity="0"/>
+  </radialGradient>
+  <rect width="1280" height="640" fill="url(#vgl)"/>
+
+  <!-- ===================== MOSQUITO (escala ~3.8x, centrado en x=200, y=320) ===================== -->
+  <g transform="translate(200,320) scale(3.8)">
+
+    <!-- Abdomen -->
+    <ellipse cx="0" cy="8" rx="7" ry="22" transform="rotate(-20)" fill="#1A0606" stroke="#C0392B" stroke-width="0.8"/>
+    <line x1="-5" y1="-4" x2="6" y2="2"  stroke="#E53935" stroke-width="0.6" opacity="0.7"/>
+    <line x1="-6" y1="2"  x2="6" y2="8"  stroke="#E53935" stroke-width="0.6" opacity="0.7"/>
+    <line x1="-6" y1="8"  x2="5" y2="14" stroke="#E53935" stroke-width="0.6" opacity="0.7"/>
+    <line x1="-5" y1="14" x2="4" y2="20" stroke="#E53935" stroke-width="0.6" opacity="0.5"/>
+
+    <!-- Tórax -->
+    <ellipse cx="-2" cy="-20" rx="9" ry="11" fill="#2A0A0A" stroke="#C0392B" stroke-width="0.8"/>
+    <ellipse cx="-2" cy="-22" rx="5" ry="6" fill="#3D1010" opacity="0.9"/>
+
+    <!-- Cabeza -->
+    <circle cx="-4" cy="-34" r="7" fill="#1A0606" stroke="#C0392B" stroke-width="0.7"/>
+    <circle cx="-7" cy="-36" r="2.2" fill="#E53935" opacity="0.85"/>
+    <circle cx="-1" cy="-36" r="2.2" fill="#E53935" opacity="0.85"/>
+
+    <!-- Probóscide -->
+    <path d="M -5,-40 Q -10,-52 -14,-62" fill="none" stroke="#C0392B" stroke-width="1.2" stroke-linecap="round"/>
+    <circle cx="-14" cy="-62" r="1.2" fill="#E53935"/>
+
+    <!-- Antenas -->
+    <path d="M -2,-40 Q 4,-50 8,-58"  fill="none" stroke="#8B2020" stroke-width="0.7" stroke-linecap="round"/>
+    <path d="M -2,-40 Q 6,-48 12,-54" fill="none" stroke="#8B2020" stroke-width="0.7" stroke-linecap="round"/>
+    <line x1="4" y1="-50" x2="1"  y2="-53" stroke="#5C1A1A" stroke-width="0.5"/>
+    <line x1="6" y1="-54" x2="3"  y2="-57" stroke="#5C1A1A" stroke-width="0.5"/>
+    <line x1="6" y1="-48" x2="10" y2="-51" stroke="#5C1A1A" stroke-width="0.5"/>
+
+    <!-- Alas -->
+    <ellipse cx="-22" cy="-28" rx="20" ry="7" transform="rotate(-30,-22,-28)"
+             fill="#3D1010" fill-opacity="0.25" stroke="#C0392B" stroke-width="0.6"/>
+    <path d="M -8,-22 Q -18,-28 -36,-26" fill="none" stroke="#E53935" stroke-width="0.5" opacity="0.5"/>
+    <path d="M -8,-22 Q -20,-24 -34,-20" fill="none" stroke="#E53935" stroke-width="0.4" opacity="0.4"/>
+
+    <ellipse cx="18" cy="-28" rx="20" ry="7" transform="rotate(30,18,-28)"
+             fill="#3D1010" fill-opacity="0.25" stroke="#C0392B" stroke-width="0.6"/>
+    <path d="M -8,-22 Q 12,-28 32,-24" fill="none" stroke="#E53935" stroke-width="0.5" opacity="0.5"/>
+    <path d="M -8,-22 Q 14,-22 30,-18" fill="none" stroke="#E53935" stroke-width="0.4" opacity="0.4"/>
+
+    <!-- Patas -->
+    <path d="M -4,-18 Q -18,-14 -28,-8 Q -34,-4 -38,4"   fill="none" stroke="#8B2020" stroke-width="0.9" stroke-linecap="round"/>
+    <path d="M -2,-18 Q  12,-12  22,-6 Q  28,-2  32,6"   fill="none" stroke="#8B2020" stroke-width="0.9" stroke-linecap="round"/>
+    <path d="M -5,-10 Q -20,-6 -30,2  Q -36,8  -40,18"  fill="none" stroke="#8B2020" stroke-width="0.9" stroke-linecap="round"/>
+    <path d="M -1,-10 Q  14,-4  24,4  Q  30,10  34,20"  fill="none" stroke="#8B2020" stroke-width="0.9" stroke-linecap="round"/>
+    <path d="M -6,2  Q -22,8  -32,18 Q -36,26 -38,36"  fill="none" stroke="#8B2020" stroke-width="0.9" stroke-linecap="round"/>
+    <path d="M  0,2  Q  16,10  26,20 Q  30,28  32,38"  fill="none" stroke="#8B2020" stroke-width="0.9" stroke-linecap="round"/>
+
+    <line x1="-38" y1="4"  x2="-40" y2="8"  stroke="#4A1A1A" stroke-width="1.2"/>
+    <line x1=" 32" y1="6"  x2=" 34" y2="10" stroke="#4A1A1A" stroke-width="1.2"/>
+    <line x1="-40" y1="18" x2="-42" y2="22" stroke="#4A1A1A" stroke-width="1.2"/>
+    <line x1=" 34" y1="20" x2=" 36" y2="24" stroke="#4A1A1A" stroke-width="1.2"/>
+    <line x1="-38" y1="36" x2="-40" y2="40" stroke="#4A1A1A" stroke-width="1.2"/>
+    <line x1=" 32" y1="38" x2=" 34" y2="42" stroke="#4A1A1A" stroke-width="1.2"/>
+  </g>
+  <!-- ===================== FIN MOSQUITO ===================== -->
+
+  <!-- Divisor vertical -->
+  <line x1="390" y1="60" x2="390" y2="580" stroke="#3D1010" stroke-width="1.2"/>
+
+  <!-- Línea epidemiológica de fondo -->
+  <polyline
+    points="420,520 480,500 540,480 600,455 660,415 720,360 780,295 840,245 900,215 960,200 1020,195 1080,205 1140,240 1200,290 1260,340"
+    fill="none" stroke="#C0392B" stroke-width="2.5" opacity="0.35"
+    stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Pico semana 12 -->
+  <line x1="1020" y1="195" x2="1020" y2="560" stroke="#E53935" stroke-width="1.2" stroke-dasharray="6,8" opacity="0.3"/>
+
+  <!-- ===== TEXTO CENTRAL ===== -->
+  <!-- Eyebrow -->
+  <text x="640" y="175" font-family="system-ui, -apple-system, sans-serif"
+        font-size="20" font-weight="400" fill="#9E3030" text-anchor="middle" letter-spacing="4">
+    PRÁCTICAS PROFESIONALIZANTES 1 · EQUIPO 1 · CICLO 2026
+  </text>
+
+  <!-- Título principal -->
+  <text x="640" y="275" font-family="system-ui, -apple-system, sans-serif"
+        font-size="100" font-weight="800" fill="#F5F5F5" text-anchor="middle" letter-spacing="-2">
+    DENGUE
+  </text>
+  <text x="640" y="365" font-family="system-ui, -apple-system, sans-serif"
+        font-size="64" font-weight="400" fill="#E53935" text-anchor="middle" letter-spacing="2">
+    ARGENTINA
+  </text>
+
+  <!-- Subtítulo -->
+  <text x="640" y="415" font-family="system-ui, -apple-system, sans-serif"
+        font-size="24" font-weight="400" fill="#666666" text-anchor="middle" letter-spacing="1">
+    Análisis epidemiológico descriptivo · 2022–2025
+  </text>
+
+  <!-- Línea divisora -->
+  <line x1="430" y1="440" x2="850" y2="440" stroke="#2A1010" stroke-width="1.2"/>
+
+  <!-- Stack tecnológico -->
+  <text x="640" y="490" font-family="system-ui, -apple-system, sans-serif"
+        font-size="22" font-weight="400" fill="#7A2020" text-anchor="middle" letter-spacing="2">
+    Power BI · Python · SNVS 2.0 · SMN · RENAPER · GitHub
+  </text>
+
+
+
+  <!-- ===== DATO DESTACADO DERECHA ===== -->
+  <text x="1130" y="370" font-family="system-ui, -apple-system, sans-serif"
+        font-size="90" font-weight="800" fill="#E53935" text-anchor="middle" letter-spacing="-3">582k</text>
+  <text x="1130" y="415" font-family="system-ui, -apple-system, sans-serif"
+        font-size="20" font-weight="400" fill="#666666" text-anchor="middle" letter-spacing="3">CASOS 2024</text>
+
+  <!-- Flecha ascendente -->
+  <polyline points="1108,455 1130,430 1152,455" fill="none" stroke="#E53935" stroke-width="4"
+            stroke-linecap="round" stroke-linejoin="round" opacity="0.85"/>
+  <line x1="1130" y1="430" x2="1130" y2="490" stroke="#E53935" stroke-width="4"
+        stroke-linecap="round" opacity="0.85"/>
+
 </svg>
