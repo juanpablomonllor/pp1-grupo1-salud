@@ -1,0 +1,237 @@
+﻿provincia,grupo_dengue,casos,pob,tasa_x100k,orden
+Buenos Aires,Menores de 2 años,429,269218,159.4,0
+Buenos Aires,De 2 a 4 años,1076,504369,213.3,1
+Buenos Aires,De 5 a 9 años,5365,1251923,428.5,2
+Buenos Aires,De 10 a 14 años,10009,1446461,692.0,3
+Buenos Aires,De 15 a 19 años,12186,1398516,871.4,4
+Buenos Aires,De 20 a 24 años,12414,1374301,903.3,5
+Buenos Aires,De 25 a 34 años,24830,2749320,903.1,6
+Buenos Aires,De 35 a 44 años,20156,2575303,782.7,7
+Buenos Aires,De 45 a 65 años,27207,3929070,692.5,8
+Buenos Aires,Mayores de 65 años,7006,2198787,318.6,9
+CABA,Menores de 2 años,80,37193,215.1,0
+CABA,De 2 a 4 años,269,69680,386.1,1
+CABA,De 5 a 9 años,1405,163190,861.0,2
+CABA,De 10 a 14 años,2926,191510,1527.9,3
+CABA,De 15 a 19 años,3242,189680,1709.2,4
+CABA,De 20 a 24 años,3286,207411,1584.3,5
+CABA,De 25 a 34 años,6619,475085,1393.2,6
+CABA,De 35 a 44 años,6234,523901,1189.9,7
+CABA,De 45 a 65 años,10077,860950,1170.5,8
+CABA,Mayores de 65 años,3686,605237,609.0,9
+Catamarca,Menores de 2 años,81,7122,1137.3,0
+Catamarca,De 2 a 4 años,143,13343,1071.7,1
+Catamarca,De 5 a 9 años,532,31785,1673.7,2
+Catamarca,De 10 a 14 años,919,34629,2653.8,3
+Catamarca,De 15 a 19 años,927,35166,2636.1,4
+Catamarca,De 20 a 24 años,1098,37497,2928.2,5
+Catamarca,De 25 a 34 años,2284,76173,2998.4,6
+Catamarca,De 35 a 44 años,2032,63422,3203.9,7
+Catamarca,De 45 a 65 años,2838,92899,3054.9,8
+Catamarca,Mayores de 65 años,1099,46278,2374.8,9
+Chaco,Menores de 2 años,373,23676,1575.4,0
+Chaco,De 2 a 4 años,695,44356,1566.9,1
+Chaco,De 5 a 9 años,2031,111757,1817.3,2
+Chaco,De 10 a 14 años,2974,118316,2513.6,3
+Chaco,De 15 a 19 años,2838,107168,2648.2,4
+Chaco,De 20 a 24 años,3043,112596,2702.6,5
+Chaco,De 25 a 34 años,7117,230259,3090.9,6
+Chaco,De 35 a 44 años,6448,187874,3432.1,7
+Chaco,De 45 a 65 años,9894,257674,3839.7,8
+Chaco,Mayores de 65 años,4392,125099,3510.8,9
+Chubut,De 5 a 9 años,3,43380,6.9,2
+Chubut,De 10 a 14 años,4,50229,8.0,3
+Chubut,De 15 a 19 años,4,49226,8.1,4
+Chubut,De 20 a 24 años,8,46556,17.2,5
+Chubut,De 25 a 34 años,18,99913,18.0,6
+Chubut,De 35 a 44 años,13,98658,13.2,7
+Chubut,De 45 a 65 años,21,140766,14.9,8
+Chubut,Mayores de 65 años,6,70802,8.5,9
+Corrientes,Menores de 2 años,35,22909,152.8,0
+Corrientes,De 2 a 4 años,100,42919,233.0,1
+Corrientes,De 5 a 9 años,423,94661,446.9,2
+Corrientes,De 10 a 14 años,774,100194,772.5,3
+Corrientes,De 15 a 19 años,1010,97504,1035.9,4
+Corrientes,De 20 a 24 años,1308,103416,1264.8,5
+Corrientes,De 25 a 34 años,2810,204365,1375.0,6
+Corrientes,De 35 a 44 años,2230,171013,1304.0,7
+Corrientes,De 45 a 65 años,3629,247375,1467.0,8
+Corrientes,Mayores de 65 años,1639,126031,1300.5,9
+Córdoba,Menores de 2 años,1656,63135,2623.0,0
+Córdoba,De 2 a 4 años,2849,118280,2408.7,1
+Córdoba,De 5 a 9 años,8160,270092,3021.2,2
+Córdoba,De 10 a 14 años,11357,296892,3825.3,3
+Córdoba,De 15 a 19 años,11025,292137,3773.9,4
+Córdoba,De 20 a 24 años,11852,296430,3998.2,5
+Córdoba,De 25 a 34 años,21719,601000,3613.8,6
+Córdoba,De 35 a 44 años,17309,566363,3056.2,7
+Córdoba,De 45 a 65 años,23467,876805,2676.4,8
+Córdoba,Mayores de 65 años,6467,509563,1269.1,9
+Entre Ríos,Menores de 2 años,90,23375,385.0,0
+Entre Ríos,De 2 a 4 años,246,43792,561.7,1
+Entre Ríos,De 5 a 9 años,1054,103723,1016.2,2
+Entre Ríos,De 10 a 14 años,1678,114715,1462.8,3
+Entre Ríos,De 15 a 19 años,1794,109655,1636.0,4
+Entre Ríos,De 20 a 24 años,1954,114892,1700.7,5
+Entre Ríos,De 25 a 34 años,3878,229484,1689.9,6
+Entre Ríos,De 35 a 44 años,3158,207221,1524.0,7
+Entre Ríos,De 45 a 65 años,4556,317777,1433.7,8
+Entre Ríos,Mayores de 65 años,1809,181676,995.7,9
+Formosa,Menores de 2 años,100,12367,808.6,0
+Formosa,De 2 a 4 años,175,23168,755.4,1
+Formosa,De 5 a 9 años,748,53225,1405.4,2
+Formosa,De 10 a 14 años,1177,57127,2060.3,3
+Formosa,De 15 a 19 años,1616,54588,2960.4,4
+Formosa,De 20 a 24 años,1777,53298,3334.1,5
+Formosa,De 25 a 34 años,3604,106107,3396.6,6
+Formosa,De 35 a 44 años,2869,84166,3408.7,7
+Formosa,De 45 a 65 años,4197,124014,3384.3,8
+Formosa,Mayores de 65 años,1576,67835,2323.3,9
+Jujuy,Menores de 2 años,133,11321,1174.8,0
+Jujuy,De 2 a 4 años,269,21210,1268.3,1
+Jujuy,De 5 a 9 años,1050,56197,1868.4,2
+Jujuy,De 10 a 14 años,1770,65841,2688.3,3
+Jujuy,De 15 a 19 años,2007,63663,3152.5,4
+Jujuy,De 20 a 24 años,1827,62987,2900.6,5
+Jujuy,De 25 a 34 años,3897,127199,3063.7,6
+Jujuy,De 35 a 44 años,3288,110763,2968.5,7
+Jujuy,De 45 a 65 años,4130,162088,2548.0,8
+Jujuy,Mayores de 65 años,1173,77587,1511.9,9
+La Pampa,Menores de 2 años,5,5595,89.4,0
+La Pampa,De 2 a 4 años,3,10483,28.6,1
+La Pampa,De 5 a 9 años,9,25169,35.8,2
+La Pampa,De 10 a 14 años,36,29115,123.6,3
+La Pampa,De 15 a 19 años,76,28396,267.6,4
+La Pampa,De 20 a 24 años,101,28230,357.8,5
+La Pampa,De 25 a 34 años,159,58149,273.4,6
+La Pampa,De 35 a 44 años,132,55688,237.0,7
+La Pampa,De 45 a 65 años,213,85912,247.9,8
+La Pampa,Mayores de 65 años,61,52194,116.9,9
+La Rioja,Menores de 2 años,73,6661,1095.9,0
+La Rioja,De 2 a 4 años,288,12479,2307.9,1
+La Rioja,De 5 a 9 años,993,28383,3498.6,2
+La Rioja,De 10 a 14 años,1249,32392,3855.9,3
+La Rioja,De 15 a 19 años,1071,32125,3333.9,4
+La Rioja,De 20 a 24 años,1254,33989,3689.4,5
+La Rioja,De 25 a 34 años,2554,70864,3604.1,6
+La Rioja,De 35 a 44 años,1798,58345,3081.7,7
+La Rioja,De 45 a 65 años,2297,84791,2709.0,8
+La Rioja,Mayores de 65 años,663,39382,1683.5,9
+Mendoza,Menores de 2 años,23,33070,69.5,0
+Mendoza,De 2 a 4 años,68,61956,109.8,1
+Mendoza,De 5 a 9 años,309,146697,210.6,2
+Mendoza,De 10 a 14 años,466,167924,277.5,3
+Mendoza,De 15 a 19 años,470,161959,290.2,4
+Mendoza,De 20 a 24 años,430,144243,298.1,5
+Mendoza,De 25 a 34 años,1019,304320,334.8,6
+Mendoza,De 35 a 44 años,786,283715,277.0,7
+Mendoza,De 45 a 65 años,1026,424246,241.8,8
+Mendoza,Mayores de 65 años,243,249193,97.5,9
+Misiones,Menores de 2 años,243,29929,811.9,0
+Misiones,De 2 a 4 años,412,56072,734.8,1
+Misiones,De 5 a 9 años,1058,118763,890.8,2
+Misiones,De 10 a 14 años,1345,128588,1046.0,3
+Misiones,De 15 a 19 años,1718,118619,1448.3,4
+Misiones,De 20 a 24 años,2063,115244,1790.1,5
+Misiones,De 25 a 34 años,4166,226351,1840.5,6
+Misiones,De 35 a 44 años,3132,186620,1678.3,7
+Misiones,De 45 a 65 años,4373,260038,1681.7,8
+Misiones,Mayores de 65 años,1624,121028,1341.8,9
+Neuquén,Menores de 2 años,1,11834,8.5,0
+Neuquén,De 2 a 4 años,2,22170,9.0,1
+Neuquén,De 5 a 9 años,7,53380,13.1,2
+Neuquén,De 10 a 14 años,6,60999,9.8,3
+Neuquén,De 15 a 19 años,12,59865,20.0,4
+Neuquén,De 20 a 24 años,30,55791,53.8,5
+Neuquén,De 25 a 34 años,61,131248,46.5,6
+Neuquén,De 35 a 44 años,37,123763,29.9,7
+Neuquén,De 45 a 65 años,54,172215,31.4,8
+Neuquén,Mayores de 65 años,10,76786,13.0,9
+Río Negro,Menores de 2 años,1,12089,8.3,0
+Río Negro,De 2 a 4 años,3,22649,13.2,1
+Río Negro,De 5 a 9 años,2,55684,3.6,2
+Río Negro,De 10 a 14 años,6,63859,9.4,3
+Río Negro,De 15 a 19 años,8,60779,13.2,4
+Río Negro,De 20 a 24 años,13,58519,22.2,5
+Río Negro,De 25 a 34 años,30,129067,23.2,6
+Río Negro,De 35 a 44 años,16,124646,12.8,7
+Río Negro,De 45 a 65 años,30,182286,16.5,8
+Río Negro,Mayores de 65 años,2,96874,2.1,9
+Salta,Menores de 2 años,379,27399,1383.3,0
+Salta,De 2 a 4 años,716,51332,1394.8,1
+Salta,De 5 a 9 años,2736,118960,2299.9,2
+Salta,De 10 a 14 años,4188,132895,3151.4,3
+Salta,De 15 a 19 años,4029,124959,3224.3,4
+Salta,De 20 a 24 años,3651,123805,2949.0,5
+Salta,De 25 a 34 años,7614,241256,3156.0,6
+Salta,De 35 a 44 años,6029,200555,3006.2,7
+Salta,De 45 a 65 años,8103,285739,2835.8,8
+Salta,Mayores de 65 años,2429,137787,1762.9,9
+San Juan,Menores de 2 años,12,15864,75.6,0
+San Juan,De 2 a 4 años,38,29720,127.9,1
+San Juan,De 5 a 9 años,123,65725,187.1,2
+San Juan,De 10 a 14 años,222,72755,305.1,3
+San Juan,De 15 a 19 años,268,70658,379.3,4
+San Juan,De 20 a 24 años,243,67950,357.6,5
+San Juan,De 25 a 34 años,441,127641,345.5,6
+San Juan,De 35 a 44 años,289,109829,263.1,7
+San Juan,De 45 a 65 años,411,166846,246.3,8
+San Juan,Mayores de 65 años,118,90530,130.3,9
+San Luis,Menores de 2 años,26,8440,308.1,0
+San Luis,De 2 a 4 años,47,15813,297.2,1
+San Luis,De 5 a 9 años,145,36556,396.7,2
+San Luis,De 10 a 14 años,280,42095,665.2,3
+San Luis,De 15 a 19 años,381,43887,868.1,4
+San Luis,De 20 a 24 años,434,44497,975.3,5
+San Luis,De 25 a 34 años,785,88403,888.0,6
+San Luis,De 35 a 44 años,652,78634,829.2,7
+San Luis,De 45 a 65 años,916,121284,755.3,8
+San Luis,Mayores de 65 años,339,61413,552.0,9
+Santa Cruz,De 2 a 4 años,4,10203,39.2,1
+Santa Cruz,De 5 a 9 años,12,26806,44.8,2
+Santa Cruz,De 10 a 14 años,22,30368,72.4,3
+Santa Cruz,De 15 a 19 años,20,29508,67.8,4
+Santa Cruz,De 20 a 24 años,40,28523,140.2,5
+Santa Cruz,De 25 a 34 años,86,61992,138.7,6
+Santa Cruz,De 35 a 44 años,45,59272,75.9,7
+Santa Cruz,De 45 a 65 años,61,76188,80.1,8
+Santa Cruz,Mayores de 65 años,8,29922,26.7,9
+Santa Fe,Menores de 2 años,666,59873,1112.4,0
+Santa Fe,De 2 a 4 años,1461,112171,1302.5,1
+Santa Fe,De 5 a 9 años,5348,249483,2143.6,2
+Santa Fe,De 10 a 14 años,8312,273699,3036.9,3
+Santa Fe,De 15 a 19 años,8508,259414,3279.7,4
+Santa Fe,De 20 a 24 años,8576,262596,3265.9,5
+Santa Fe,De 25 a 34 años,17564,542708,3236.4,6
+Santa Fe,De 35 a 44 años,15040,531174,2831.5,7
+Santa Fe,De 45 a 65 años,20662,796195,2595.1,8
+Santa Fe,Mayores de 65 años,6594,472009,1397.0,9
+Santiago del Estero,Menores de 2 años,332,22031,1507.0,0
+Santiago del Estero,De 2 a 4 años,836,41274,2025.5,1
+Santiago del Estero,De 5 a 9 años,2777,90136,3080.9,2
+Santiago del Estero,De 10 a 14 años,3508,95846,3660.0,3
+Santiago del Estero,De 15 a 19 años,2940,92454,3180.0,4
+Santiago del Estero,De 20 a 24 años,3108,93968,3307.5,5
+Santiago del Estero,De 25 a 34 años,6850,181315,3778.0,6
+Santiago del Estero,De 35 a 44 años,5849,146033,4005.3,7
+Santiago del Estero,De 45 a 65 años,7130,207159,3441.8,8
+Santiago del Estero,Mayores de 65 años,1329,108999,1219.3,9
+Tierra del Fuego,Menores de 2 años,2,2543,78.6,0
+Tierra del Fuego,De 5 a 9 años,10,13386,74.7,2
+Tierra del Fuego,De 10 a 14 años,10,15035,66.5,3
+Tierra del Fuego,De 15 a 19 años,10,14766,67.7,4
+Tierra del Fuego,De 20 a 24 años,18,15054,119.6,5
+Tierra del Fuego,De 25 a 34 años,50,35248,141.9,6
+Tierra del Fuego,De 35 a 44 años,45,33901,132.7,7
+Tierra del Fuego,De 45 a 65 años,53,42564,124.5,8
+Tierra del Fuego,Mayores de 65 años,12,15188,79.0,9
+Tucumán,Menores de 2 años,1349,29837,4521.2,0
+Tucumán,De 2 a 4 años,2535,55898,4535.0,1
+Tucumán,De 5 a 9 años,6807,130223,5227.2,2
+Tucumán,De 10 a 14 años,9063,146281,6195.6,3
+Tucumán,De 15 a 19 años,9515,139188,6836.1,4
+Tucumán,De 20 a 24 años,10080,144000,7000.0,5
+Tucumán,De 25 a 34 años,21113,280015,7540.0,6
+Tucumán,De 35 a 44 años,17328,237380,7299.7,7
+Tucumán,De 45 a 65 años,23430,352467,6647.4,8
+Tucumán,Mayores de 65 años,7950,189764,4189.4,9
